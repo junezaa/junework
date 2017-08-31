@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="deselsuper" id="deselsuper">
+	<SimpleField name="id_point" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="e_utm" type="float"></SimpleField>
+	<SimpleField name="n_utm" type="float"></SimpleField>
+	<SimpleField name="petroleum_" type="string"></SimpleField>
+	<SimpleField name="type_petro" type="string"></SimpleField>
+	<SimpleField name="price" type="float"></SimpleField>
+	<SimpleField name="bucket_num" type="int"></SimpleField>
+</Schema>
+<Folder><name>deselsuper</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">9</SimpleData>
+		<SimpleData name="lat">16.753900000000002</SimpleData>
+		<SimpleData name="lon">100.115388999999990</SimpleData>
+		<SimpleData name="e_utm">618885.780000000030000</SimpleData>
+		<SimpleData name="n_utm">1852664.159999999900000</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">28.359999999999999</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.1153889777421,16.753900039175594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">13</SimpleData>
+		<SimpleData name="lat">16.863979000000000</SimpleData>
+		<SimpleData name="lon">100.279432000000000</SimpleData>
+		<SimpleData name="e_utm">636294.229999999980000</SimpleData>
+		<SimpleData name="n_utm">1864949.330000000100000</SimpleData>
+		<SimpleData name="petroleum_">Shell</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">28.410000000000000</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.27943204204203,16.863979034936374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">21</SimpleData>
+		<SimpleData name="lat">16.953550000000000</SimpleData>
+		<SimpleData name="lon">100.122913999999990</SimpleData>
+		<SimpleData name="e_utm">619562.400000000020000</SimpleData>
+		<SimpleData name="n_utm">1874758.189999999900000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">27.680000000000000</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.12291399009001,16.953550005118522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">31</SimpleData>
+		<SimpleData name="lat">16.826324000000000</SimpleData>
+		<SimpleData name="lon">100.418277000000000</SimpleData>
+		<SimpleData name="e_utm">651117.290000000040000</SimpleData>
+		<SimpleData name="n_utm">1860883.790000000000000</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">28.359999999999999</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.41827703912398,16.826324041372917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">36</SimpleData>
+		<SimpleData name="lat">16.486291999999999</SimpleData>
+		<SimpleData name="lon">100.481853000000000</SimpleData>
+		<SimpleData name="e_utm">658171.530000000030000</SimpleData>
+		<SimpleData name="n_utm">1823308.060000000100000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">27.680000000000000</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.48185301845766,16.486291957898402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">43</SimpleData>
+		<SimpleData name="lat">16.830577999999999</SimpleData>
+		<SimpleData name="lon">100.362384000000010</SimpleData>
+		<SimpleData name="e_utm">645157.689999999940000</SimpleData>
+		<SimpleData name="n_utm">1861312.639999999900000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">27.680000000000000</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.36238399219373,16.830577997309085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">50</SimpleData>
+		<SimpleData name="lat">16.758818000000002</SimpleData>
+		<SimpleData name="lon">101.194794000000000</SimpleData>
+		<SimpleData name="e_utm">733965.760000000010000</SimpleData>
+		<SimpleData name="n_utm">1854167.169999999900000</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">28.359999999999999</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.19479397327787,16.758817992789336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">55</SimpleData>
+		<SimpleData name="lat">16.854461000000001</SimpleData>
+		<SimpleData name="lon">100.478607999999990</SimpleData>
+		<SimpleData name="e_utm">657523.439999999940000</SimpleData>
+		<SimpleData name="n_utm">1864044.320000000100000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">27.680000000000000</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.47860802331752,16.854460993785718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">58</SimpleData>
+		<SimpleData name="lat">17.272949000000001</SimpleData>
+		<SimpleData name="lon">101.145079999999990</SimpleData>
+		<SimpleData name="e_utm">728040.339999999970000</SimpleData>
+		<SimpleData name="n_utm">1911018.350000000100000</SimpleData>
+		<SimpleData name="petroleum_">Caltex</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">28.359999999999999</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.14507996508885,17.272949037640124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">63</SimpleData>
+		<SimpleData name="lat">16.857182999999999</SimpleData>
+		<SimpleData name="lon">100.350455999999990</SimpleData>
+		<SimpleData name="e_utm">643866.489999999990000</SimpleData>
+		<SimpleData name="n_utm">1864247.740000000000000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">27.680000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35045597242677,16.857182966467963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">64</SimpleData>
+		<SimpleData name="lat">16.859451000000000</SimpleData>
+		<SimpleData name="lon">100.351669000000000</SimpleData>
+		<SimpleData name="e_utm">643994.020000000020000</SimpleData>
+		<SimpleData name="n_utm">1864499.580000000100000</SimpleData>
+		<SimpleData name="petroleum_">Shell</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">28.410000000000000</SimpleData>
+		<SimpleData name="bucket_num">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35166901113526,16.859450998612232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">72</SimpleData>
+		<SimpleData name="lat">17.596557000000001</SimpleData>
+		<SimpleData name="lon">100.127376000000000</SimpleData>
+		<SimpleData name="e_utm">619621.780000000030000</SimpleData>
+		<SimpleData name="n_utm">1945906.909999999900000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">27.680000000000000</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.1273760097385,17.596556989019764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">75</SimpleData>
+		<SimpleData name="lat">17.475687000000001</SimpleData>
+		<SimpleData name="lon">100.236170000000000</SimpleData>
+		<SimpleData name="e_utm">631253.880000000000000</SimpleData>
+		<SimpleData name="n_utm">1932604.389999999900000</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">28.359999999999999</SimpleData>
+		<SimpleData name="bucket_num">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.23616997031763,17.475686993067015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">77</SimpleData>
+		<SimpleData name="lat">17.096575000000001</SimpleData>
+		<SimpleData name="lon">100.310395000000000</SimpleData>
+		<SimpleData name="e_utm">639421.170000000040000</SimpleData>
+		<SimpleData name="n_utm">1890707.460000000000000</SimpleData>
+		<SimpleData name="petroleum_">Caltex และ LPG ลิ้ม เฮงฯ</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">28.359999999999999</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.31039499010916,17.096575003805558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#deselsuper">
+		<SimpleData name="id_point">78</SimpleData>
+		<SimpleData name="lat">16.994035000000000</SimpleData>
+		<SimpleData name="lon">100.326950999999990</SimpleData>
+		<SimpleData name="e_utm">641259.969999999970000</SimpleData>
+		<SimpleData name="n_utm">1879373.310000000100000</SimpleData>
+		<SimpleData name="petroleum_">Shell</SimpleData>
+		<SimpleData name="type_petro">ดีเซล พรีเมียม</SimpleData>
+		<SimpleData name="price">28.410000000000000</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.32695101600686,16.994035016572095</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

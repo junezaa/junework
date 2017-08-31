@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="caltex" id="caltex">
+	<SimpleField name="id_point" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="e_utm" type="float"></SimpleField>
+	<SimpleField name="n_utm" type="float"></SimpleField>
+	<SimpleField name="id_road" type="float"></SimpleField>
+	<SimpleField name="petroleum_" type="string"></SimpleField>
+	<SimpleField name="district_n" type="string"></SimpleField>
+	<SimpleField name="amphoe_nam" type="string"></SimpleField>
+	<SimpleField name="province" type="string"></SimpleField>
+</Schema>
+<Folder><name>caltex</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#caltex">
+		<SimpleData name="id_point">7</SimpleData>
+		<SimpleData name="lat">16.715177000000001</SimpleData>
+		<SimpleData name="lon">100.031622000000000</SimpleData>
+		<SimpleData name="e_utm">609978.689999999940000</SimpleData>
+		<SimpleData name="n_utm">1848331.720000000000000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">Caltex</SimpleData>
+		<SimpleData name="district_n">ตำบลบึงกอก</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางระกำ</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.03162196681593,16.715177004661786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#caltex">
+		<SimpleData name="id_point">14</SimpleData>
+		<SimpleData name="lat">16.868040000000001</SimpleData>
+		<SimpleData name="lon">100.211128000000000</SimpleData>
+		<SimpleData name="e_utm">629014.310000000060000</SimpleData>
+		<SimpleData name="n_utm">1865352.760000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">Caltex</SimpleData>
+		<SimpleData name="district_n">ตำบลบ้านกร่าง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.21112802905957,16.868039984959935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#caltex">
+		<SimpleData name="id_point">29</SimpleData>
+		<SimpleData name="lat">16.834295000000001</SimpleData>
+		<SimpleData name="lon">100.367549999999990</SimpleData>
+		<SimpleData name="e_utm">645705.359999999990000</SimpleData>
+		<SimpleData name="n_utm">1861727.720000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">Caltex</SimpleData>
+		<SimpleData name="district_n">ตำบลสมอแข</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.36755003757547,16.834294973878965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#caltex">
+		<SimpleData name="id_point">58</SimpleData>
+		<SimpleData name="lat">17.272949000000001</SimpleData>
+		<SimpleData name="lon">101.145079999999990</SimpleData>
+		<SimpleData name="e_utm">728040.339999999970000</SimpleData>
+		<SimpleData name="n_utm">1911018.350000000100000</SimpleData>
+		<SimpleData name="id_road">2013</SimpleData>
+		<SimpleData name="petroleum_">Caltex</SimpleData>
+		<SimpleData name="district_n">ตำบลด่านซ้าย</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอด่านซ้าย</SimpleData>
+		<SimpleData name="province">เลย</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.14507996508885,17.272949037640124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#caltex">
+		<SimpleData name="id_point">77</SimpleData>
+		<SimpleData name="lat">17.096575000000001</SimpleData>
+		<SimpleData name="lon">100.310395000000000</SimpleData>
+		<SimpleData name="e_utm">639421.170000000040000</SimpleData>
+		<SimpleData name="n_utm">1890707.460000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Caltex และ LPG ลิ้ม เฮงฯ</SimpleData>
+		<SimpleData name="district_n">ตำบลทับยายเชียง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอพรหมพิราม</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.31039499010916,17.096575003805558</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

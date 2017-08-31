@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="susco" id="susco">
+	<SimpleField name="id_point" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="e_utm" type="float"></SimpleField>
+	<SimpleField name="n_utm" type="float"></SimpleField>
+	<SimpleField name="id_road" type="float"></SimpleField>
+	<SimpleField name="petroleum_" type="string"></SimpleField>
+	<SimpleField name="district_n" type="string"></SimpleField>
+	<SimpleField name="amphoe_nam" type="string"></SimpleField>
+	<SimpleField name="province" type="string"></SimpleField>
+</Schema>
+<Folder><name>susco</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#susco">
+		<SimpleData name="id_point">3</SimpleData>
+		<SimpleData name="lat">16.759215999999999</SimpleData>
+		<SimpleData name="lon">100.119399000000000</SimpleData>
+		<SimpleData name="e_utm">619309.930000000050000</SimpleData>
+		<SimpleData name="n_utm">1853254.720000000000000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">Susco</SimpleData>
+		<SimpleData name="district_n">ตำบลบางระกำ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางระกำ</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.1193990204561,16.759215983953556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#susco">
+		<SimpleData name="id_point">47</SimpleData>
+		<SimpleData name="lat">16.755969000000000</SimpleData>
+		<SimpleData name="lon">101.199820000000000</SimpleData>
+		<SimpleData name="e_utm">734505.250000000000000</SimpleData>
+		<SimpleData name="n_utm">1853857.740000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">Susco</SimpleData>
+		<SimpleData name="district_n">ตำบลน้ำชุน</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอหล่มสัก</SimpleData>
+		<SimpleData name="province">เพชรบูรณ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.19982000367847,16.7559689762852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#susco">
+		<SimpleData name="id_point">61</SimpleData>
+		<SimpleData name="lat">17.099675000000001</SimpleData>
+		<SimpleData name="lon">100.835731000000000</SimpleData>
+		<SimpleData name="e_utm">695325.390000000010000</SimpleData>
+		<SimpleData name="n_utm">1891501.919999999900000</SimpleData>
+		<SimpleData name="id_road">2013</SimpleData>
+		<SimpleData name="petroleum_">Susco</SimpleData>
+		<SimpleData name="district_n">ตำบลนครไทย</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอนครไทย</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.83573097957192,17.099675030935376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#susco">
+		<SimpleData name="id_point">79</SimpleData>
+		<SimpleData name="lat">16.882764999999999</SimpleData>
+		<SimpleData name="lon">100.358515000000000</SimpleData>
+		<SimpleData name="e_utm">644705.689999999940000</SimpleData>
+		<SimpleData name="n_utm">1867084.270000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Susco</SimpleData>
+		<SimpleData name="district_n">ตำบลดอนทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.3585150364483,16.882764999868758</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

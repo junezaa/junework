@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="shell" id="shell">
+	<SimpleField name="id_point" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="e_utm" type="float"></SimpleField>
+	<SimpleField name="n_utm" type="float"></SimpleField>
+	<SimpleField name="id_road" type="float"></SimpleField>
+	<SimpleField name="petroleum_" type="string"></SimpleField>
+	<SimpleField name="district_n" type="string"></SimpleField>
+	<SimpleField name="amphoe_nam" type="string"></SimpleField>
+	<SimpleField name="province" type="string"></SimpleField>
+</Schema>
+<Folder><name>shell</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#shell">
+		<SimpleData name="id_point">13</SimpleData>
+		<SimpleData name="lat">16.863979000000000</SimpleData>
+		<SimpleData name="lon">100.279432000000000</SimpleData>
+		<SimpleData name="e_utm">636294.229999999980000</SimpleData>
+		<SimpleData name="n_utm">1864949.330000000100000</SimpleData>
+		<SimpleData name="id_road">126</SimpleData>
+		<SimpleData name="petroleum_">Shell</SimpleData>
+		<SimpleData name="district_n">ตำบลหัวรอ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.27943204204203,16.863979034936374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#shell">
+		<SimpleData name="id_point">64</SimpleData>
+		<SimpleData name="lat">16.859451000000000</SimpleData>
+		<SimpleData name="lon">100.351669000000000</SimpleData>
+		<SimpleData name="e_utm">643994.020000000020000</SimpleData>
+		<SimpleData name="n_utm">1864499.580000000100000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Shell</SimpleData>
+		<SimpleData name="district_n">ตำบลดอนทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35166901113526,16.859450998612232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#shell">
+		<SimpleData name="id_point">78</SimpleData>
+		<SimpleData name="lat">16.994035000000000</SimpleData>
+		<SimpleData name="lon">100.326950999999990</SimpleData>
+		<SimpleData name="e_utm">641259.969999999970000</SimpleData>
+		<SimpleData name="n_utm">1879373.310000000100000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Shell</SimpleData>
+		<SimpleData name="district_n">ตำบลวัดโบสถ์</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวัดโบสถ์</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.32695101600686,16.994035016572095</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

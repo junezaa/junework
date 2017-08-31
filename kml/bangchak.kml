@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bangchak" id="bangchak">
+	<SimpleField name="id_point" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="e_utm" type="float"></SimpleField>
+	<SimpleField name="n_utm" type="float"></SimpleField>
+	<SimpleField name="id_road" type="float"></SimpleField>
+	<SimpleField name="petroleum_" type="string"></SimpleField>
+	<SimpleField name="district_n" type="string"></SimpleField>
+	<SimpleField name="amphoe_nam" type="string"></SimpleField>
+	<SimpleField name="province" type="string"></SimpleField>
+</Schema>
+<Folder><name>bangchak</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bangchak">
+		<SimpleData name="id_point">5</SimpleData>
+		<SimpleData name="lat">16.601745999999999</SimpleData>
+		<SimpleData name="lon">99.845426000000003</SimpleData>
+		<SimpleData name="e_utm">590180.540000000040000</SimpleData>
+		<SimpleData name="n_utm">1835689.149999999900000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">บางจาก</SimpleData>
+		<SimpleData name="district_n">ตำบลลานกระบือ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอลานกระบือ</SimpleData>
+		<SimpleData name="province">กำแพงเพชร</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>99.845426042906269,16.601745987583943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bangchak">
+		<SimpleData name="id_point">8</SimpleData>
+		<SimpleData name="lat">16.746483000000001</SimpleData>
+		<SimpleData name="lon">100.109649000000000</SimpleData>
+		<SimpleData name="e_utm">618278.489999999990000</SimpleData>
+		<SimpleData name="n_utm">1851840.120000000100000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">บางจาก</SimpleData>
+		<SimpleData name="district_n">ตำบลบางระกำ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางระกำ</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.10964899569481,16.746483039006918</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
