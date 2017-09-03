@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="petroleum" id="petroleum">
+	<SimpleField name="id_point" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="e_utm" type="float"></SimpleField>
+	<SimpleField name="n_utm" type="float"></SimpleField>
+	<SimpleField name="id_road" type="float"></SimpleField>
+	<SimpleField name="petroleum_" type="string"></SimpleField>
+	<SimpleField name="district_n" type="string"></SimpleField>
+	<SimpleField name="amphoe_nam" type="string"></SimpleField>
+	<SimpleField name="province" type="string"></SimpleField>
+</Schema>
+<Folder><name>petroleum</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">1</SimpleData>
+		<SimpleData name="lat">16.806258000000000</SimpleData>
+		<SimpleData name="lon">100.331953000000000</SimpleData>
+		<SimpleData name="e_utm">641932.969999999970000</SimpleData>
+		<SimpleData name="n_utm">1858599.600000000100000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">อินโดจีนแก๊ส</SimpleData>
+		<SimpleData name="district_n">ตำบลสมอแข</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.33195297462882,16.806258018997635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">2</SimpleData>
+		<SimpleData name="lat">16.765628000000000</SimpleData>
+		<SimpleData name="lon">100.136959000000000</SimpleData>
+		<SimpleData name="e_utm">621177.689999999940000</SimpleData>
+		<SimpleData name="n_utm">1853974.780000000000000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลบางระกำ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางระกำ</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.13695904331959,16.765628007917378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">3</SimpleData>
+		<SimpleData name="lat">16.759215999999999</SimpleData>
+		<SimpleData name="lon">100.119399000000000</SimpleData>
+		<SimpleData name="e_utm">619309.930000000050000</SimpleData>
+		<SimpleData name="n_utm">1853254.720000000000000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">Susco</SimpleData>
+		<SimpleData name="district_n">ตำบลบางระกำ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางระกำ</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.1193990204561,16.759215983953556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">4</SimpleData>
+		<SimpleData name="lat">16.610471000000000</SimpleData>
+		<SimpleData name="lon">99.876813999999996</SimpleData>
+		<SimpleData name="e_utm">593524.650000000020000</SimpleData>
+		<SimpleData name="n_utm">1836668.790000000000000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลลานกระบือ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอลานกระบือ</SimpleData>
+		<SimpleData name="province">กำแพงเพชร</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>99.876814014173632,16.610470981220328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">5</SimpleData>
+		<SimpleData name="lat">16.601745999999999</SimpleData>
+		<SimpleData name="lon">99.845426000000003</SimpleData>
+		<SimpleData name="e_utm">590180.540000000040000</SimpleData>
+		<SimpleData name="n_utm">1835689.149999999900000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">บางจาก</SimpleData>
+		<SimpleData name="district_n">ตำบลลานกระบือ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอลานกระบือ</SimpleData>
+		<SimpleData name="province">กำแพงเพชร</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>99.845426042906269,16.601745987583943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">6</SimpleData>
+		<SimpleData name="lat">16.598727000000000</SimpleData>
+		<SimpleData name="lon">99.855007000000001</SimpleData>
+		<SimpleData name="e_utm">591204.020000000020000</SimpleData>
+		<SimpleData name="n_utm">1835359.490000000000000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">สิงห์โตทองแท้ บริการ</SimpleData>
+		<SimpleData name="district_n">ตำบลลานกระบือ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอลานกระบือ</SimpleData>
+		<SimpleData name="province">กำแพงเพชร</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>99.855007034695078,16.598727001984383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">7</SimpleData>
+		<SimpleData name="lat">16.715177000000001</SimpleData>
+		<SimpleData name="lon">100.031622000000000</SimpleData>
+		<SimpleData name="e_utm">609978.689999999940000</SimpleData>
+		<SimpleData name="n_utm">1848331.720000000000000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">Caltex</SimpleData>
+		<SimpleData name="district_n">ตำบลบึงกอก</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางระกำ</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.03162196681593,16.715177004661786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">8</SimpleData>
+		<SimpleData name="lat">16.746483000000001</SimpleData>
+		<SimpleData name="lon">100.109649000000000</SimpleData>
+		<SimpleData name="e_utm">618278.489999999990000</SimpleData>
+		<SimpleData name="n_utm">1851840.120000000100000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">บางจาก</SimpleData>
+		<SimpleData name="district_n">ตำบลบางระกำ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางระกำ</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.10964899569481,16.746483039006918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">9</SimpleData>
+		<SimpleData name="lat">16.753900000000002</SimpleData>
+		<SimpleData name="lon">100.115388999999990</SimpleData>
+		<SimpleData name="e_utm">618885.780000000030000</SimpleData>
+		<SimpleData name="n_utm">1852664.159999999900000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="district_n">ตำบลบางระกำ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางระกำ</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.1153889777421,16.753900039175594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">10</SimpleData>
+		<SimpleData name="lat">16.765235000000001</SimpleData>
+		<SimpleData name="lon">100.131551000000000</SimpleData>
+		<SimpleData name="e_utm">620601.479999999980000</SimpleData>
+		<SimpleData name="n_utm">1853928.010000000000000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลบางระกำ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางระกำ</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.13155097578976,16.765235044157535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">11</SimpleData>
+		<SimpleData name="lat">16.759868000000001</SimpleData>
+		<SimpleData name="lon">100.219864000000000</SimpleData>
+		<SimpleData name="e_utm">630018.739999999990000</SimpleData>
+		<SimpleData name="n_utm">1853389.909999999900000</SimpleData>
+		<SimpleData name="id_road">126</SimpleData>
+		<SimpleData name="petroleum_">วิเศษแก๊ส LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลท่าโพธิ์</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.21986399891472,16.759868011234072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">12</SimpleData>
+		<SimpleData name="lat">16.759936000000000</SimpleData>
+		<SimpleData name="lon">100.221248000000000</SimpleData>
+		<SimpleData name="e_utm">630166.229999999980000</SimpleData>
+		<SimpleData name="n_utm">1853398.340000000100000</SimpleData>
+		<SimpleData name="id_road">126</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลท่าโพธิ์</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.22124804014062,16.759936009477411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">13</SimpleData>
+		<SimpleData name="lat">16.863979000000000</SimpleData>
+		<SimpleData name="lon">100.279432000000000</SimpleData>
+		<SimpleData name="e_utm">636294.229999999980000</SimpleData>
+		<SimpleData name="n_utm">1864949.330000000100000</SimpleData>
+		<SimpleData name="id_road">126</SimpleData>
+		<SimpleData name="petroleum_">Shell</SimpleData>
+		<SimpleData name="district_n">ตำบลหัวรอ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.27943204204203,16.863979034936374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">14</SimpleData>
+		<SimpleData name="lat">16.868040000000001</SimpleData>
+		<SimpleData name="lon">100.211128000000000</SimpleData>
+		<SimpleData name="e_utm">629014.310000000060000</SimpleData>
+		<SimpleData name="n_utm">1865352.760000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">Caltex</SimpleData>
+		<SimpleData name="district_n">ตำบลบ้านกร่าง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.21112802905957,16.868039984959935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">15</SimpleData>
+		<SimpleData name="lat">16.870262000000000</SimpleData>
+		<SimpleData name="lon">100.209843000000010</SimpleData>
+		<SimpleData name="e_utm">628875.900000000020000</SimpleData>
+		<SimpleData name="n_utm">1865597.770000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลบ้านกร่าง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.2098430025127,16.870261966228345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">16</SimpleData>
+		<SimpleData name="lat">16.885107000000001</SimpleData>
+		<SimpleData name="lon">100.201646999999990</SimpleData>
+		<SimpleData name="e_utm">627992.729999999980000</SimpleData>
+		<SimpleData name="n_utm">1867234.950000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">สถานีบริการน้ำมัน</SimpleData>
+		<SimpleData name="district_n">ตำบลบ้านกร่าง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.20164701564362,16.88510699040302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">17</SimpleData>
+		<SimpleData name="lat">16.886873000000001</SimpleData>
+		<SimpleData name="lon">100.200749000000000</SimpleData>
+		<SimpleData name="e_utm">627895.880000000000000</SimpleData>
+		<SimpleData name="n_utm">1867429.770000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ยนตรกิจ LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลบ้านกร่าง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.20074902814197,16.886873036776198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">18</SimpleData>
+		<SimpleData name="lat">16.964262000000002</SimpleData>
+		<SimpleData name="lon">100.072751999999990</SimpleData>
+		<SimpleData name="e_utm">614214.390000000010000</SimpleData>
+		<SimpleData name="n_utm">1875913.530000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">สถานีบริการน้ำมัน</SimpleData>
+		<SimpleData name="district_n">ตำบลบ้านใหม่สุขเกษม</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอกงไกรลาศ</SimpleData>
+		<SimpleData name="province">สุโขทัย</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.07275200870973,16.964262044789745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">19</SimpleData>
+		<SimpleData name="lat">16.971672999999999</SimpleData>
+		<SimpleData name="lon">100.018060000000010</SimpleData>
+		<SimpleData name="e_utm">608386.630000000000000</SimpleData>
+		<SimpleData name="n_utm">1876702.470000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลไกรนอก</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอกงไกรลาศ</SimpleData>
+		<SimpleData name="province">สุโขทัย</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.01805998927857,16.971673031846127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">20</SimpleData>
+		<SimpleData name="lat">16.965399000000001</SimpleData>
+		<SimpleData name="lon">100.068271000000000</SimpleData>
+		<SimpleData name="e_utm">613736.569999999950000</SimpleData>
+		<SimpleData name="n_utm">1876036.720000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">สถานีบริการน้ำมัน</SimpleData>
+		<SimpleData name="district_n">ตำบลบ้านใหม่สุขเกษม</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอกงไกรลาศ</SimpleData>
+		<SimpleData name="province">สุโขทัย</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.06827097527025,16.965398981288246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">21</SimpleData>
+		<SimpleData name="lat">16.953550000000000</SimpleData>
+		<SimpleData name="lon">100.122913999999990</SimpleData>
+		<SimpleData name="e_utm">619562.400000000020000</SimpleData>
+		<SimpleData name="n_utm">1874758.189999999900000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลท่าช้าง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอพรหมพิราม</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.12291399009001,16.953550005118522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">22</SimpleData>
+		<SimpleData name="lat">16.941461000000000</SimpleData>
+		<SimpleData name="lon">100.142439999999990</SimpleData>
+		<SimpleData name="e_utm">621649.439999999940000</SimpleData>
+		<SimpleData name="n_utm">1873432.620000000100000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">สถานีบรการน้ำมัน</SimpleData>
+		<SimpleData name="district_n">ตำบลมะตูม</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอพรหมพิราม</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.14244002134288,16.941461034023963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">23</SimpleData>
+		<SimpleData name="lat">16.927495000000000</SimpleData>
+		<SimpleData name="lon">100.165178000000000</SimpleData>
+		<SimpleData name="e_utm">624080.060000000060000</SimpleData>
+		<SimpleData name="n_utm">1871901.580000000100000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลมะตูม</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอพรหมพิราม</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.16517800855571,16.927494985122543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">24</SimpleData>
+		<SimpleData name="lat">16.910912000000000</SimpleData>
+		<SimpleData name="lon">100.188092999999990</SimpleData>
+		<SimpleData name="e_utm">626531.650000000020000</SimpleData>
+		<SimpleData name="n_utm">1870081.370000000100000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลไผ่ขอดอน</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.18809303609122,16.910912028512929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">25</SimpleData>
+		<SimpleData name="lat">16.865352000000001</SimpleData>
+		<SimpleData name="lon">100.239155999999990</SimpleData>
+		<SimpleData name="e_utm">632002.219999999970000</SimpleData>
+		<SimpleData name="n_utm">1865073.879999999900000</SimpleData>
+		<SimpleData name="id_road">126</SimpleData>
+		<SimpleData name="petroleum_">เจที</SimpleData>
+		<SimpleData name="district_n">ตำบลพลายชุมพล</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.23915603736697,16.865352023340929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">26</SimpleData>
+		<SimpleData name="lat">16.838398000000002</SimpleData>
+		<SimpleData name="lon">100.339685000000000</SimpleData>
+		<SimpleData name="e_utm">642732.949999999950000</SimpleData>
+		<SimpleData name="n_utm">1862161.389999999900000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">LPG กัญญพัชรแก๊ส</SimpleData>
+		<SimpleData name="district_n">ตำบลสมอแข</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.33968498499291,16.838397962979968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">27</SimpleData>
+		<SimpleData name="lat">16.825336000000000</SimpleData>
+		<SimpleData name="lon">100.332386000000000</SimpleData>
+		<SimpleData name="e_utm">641964.920000000040000</SimpleData>
+		<SimpleData name="n_utm">1860710.850000000100000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลสมอแข</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.33238603410459,16.825335979546967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">28</SimpleData>
+		<SimpleData name="lat">16.819496000000001</SimpleData>
+		<SimpleData name="lon">100.341554000000000</SimpleData>
+		<SimpleData name="e_utm">642946.000000000000000</SimpleData>
+		<SimpleData name="n_utm">1860071.000000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลสมอแข</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.34155126332175,16.819493621314781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">29</SimpleData>
+		<SimpleData name="lat">16.834295000000001</SimpleData>
+		<SimpleData name="lon">100.367549999999990</SimpleData>
+		<SimpleData name="e_utm">645705.359999999990000</SimpleData>
+		<SimpleData name="n_utm">1861727.720000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">Caltex</SimpleData>
+		<SimpleData name="district_n">ตำบลสมอแข</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.36755003757547,16.834294973878965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">30</SimpleData>
+		<SimpleData name="lat">16.827584000000002</SimpleData>
+		<SimpleData name="lon">100.414711999999990</SimpleData>
+		<SimpleData name="e_utm">650736.000000000000000</SimpleData>
+		<SimpleData name="n_utm">1861020.000000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลวังทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวังทอง</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.41470845887589,16.827579625639036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">31</SimpleData>
+		<SimpleData name="lat">16.826324000000000</SimpleData>
+		<SimpleData name="lon">100.418277000000000</SimpleData>
+		<SimpleData name="e_utm">651117.290000000040000</SimpleData>
+		<SimpleData name="n_utm">1860883.790000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="district_n">ตำบลวังทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวังทอง</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.41827703912398,16.826324041372917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">32</SimpleData>
+		<SimpleData name="lat">16.824902999999999</SimpleData>
+		<SimpleData name="lon">100.427803999999990</SimpleData>
+		<SimpleData name="e_utm">652133.699999999950000</SimpleData>
+		<SimpleData name="n_utm">1860733.850000000100000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลวังทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวังทอง</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.42780402986843,16.824903000386033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">33</SimpleData>
+		<SimpleData name="lat">16.611615000000000</SimpleData>
+		<SimpleData name="lon">100.449586999999990</SimpleData>
+		<SimpleData name="e_utm">654626.910000000030000</SimpleData>
+		<SimpleData name="n_utm">1837150.040000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลวัดตายม</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางกระทุ่ม</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.44958702302851,16.611614961231219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">34</SimpleData>
+		<SimpleData name="lat">16.519439999999999</SimpleData>
+		<SimpleData name="lon">100.466712000000000</SimpleData>
+		<SimpleData name="e_utm">656528.420000000040000</SimpleData>
+		<SimpleData name="n_utm">1826964.090000000100000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลสากเหล็ก</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอสากเหล็ก</SimpleData>
+		<SimpleData name="province">พิจิตร</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.46671204261565,16.519439964673943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">35</SimpleData>
+		<SimpleData name="lat">16.491637000000001</SimpleData>
+		<SimpleData name="lon">100.478654000000010</SimpleData>
+		<SimpleData name="e_utm">657825.670000000040000</SimpleData>
+		<SimpleData name="n_utm">1823896.990000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลสากเหล็ก</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอสากเหล็ก</SimpleData>
+		<SimpleData name="province">พิจิตร</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.47865397541199,16.491637020069728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">36</SimpleData>
+		<SimpleData name="lat">16.486291999999999</SimpleData>
+		<SimpleData name="lon">100.481853000000000</SimpleData>
+		<SimpleData name="e_utm">658171.530000000030000</SimpleData>
+		<SimpleData name="n_utm">1823308.060000000100000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลสากเหล็ก</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอสากเหล็ก</SimpleData>
+		<SimpleData name="province">พิจิตร</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.48185301845766,16.486291957898402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">37</SimpleData>
+		<SimpleData name="lat">16.488631000000002</SimpleData>
+		<SimpleData name="lon">100.479831000000000</SimpleData>
+		<SimpleData name="e_utm">657953.760000000010000</SimpleData>
+		<SimpleData name="n_utm">1823565.290000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">สถานีบริการน้ำมันศรีละออ.</SimpleData>
+		<SimpleData name="district_n">ตำบลสากเหล็ก</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอสากเหล็ก</SimpleData>
+		<SimpleData name="province">พิจิตร</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.47983096614897,16.488630973950166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">38</SimpleData>
+		<SimpleData name="lat">16.505549999999999</SimpleData>
+		<SimpleData name="lon">100.470088000000000</SimpleData>
+		<SimpleData name="e_utm">656899.979999999980000</SimpleData>
+		<SimpleData name="n_utm">1825429.780000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">PT.</SimpleData>
+		<SimpleData name="district_n">ตำบลสากเหล็ก</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอสากเหล็ก</SimpleData>
+		<SimpleData name="province">พิจิตร</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.47008798419674,16.505549956225821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">39</SimpleData>
+		<SimpleData name="lat">16.605754999999998</SimpleData>
+		<SimpleData name="lon">100.449839999999990</SimpleData>
+		<SimpleData name="e_utm">654658.589999999970000</SimpleData>
+		<SimpleData name="n_utm">1836501.830000000100000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">สถานีบริการน้ำมันบำรุงรัฐ.</SimpleData>
+		<SimpleData name="district_n">ตำบลวัดตายม</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางกระทุ่ม</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.44983999380082,16.60575502797753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">40</SimpleData>
+		<SimpleData name="lat">16.611377999999998</SimpleData>
+		<SimpleData name="lon">100.448795000000000</SimpleData>
+		<SimpleData name="e_utm">654542.599999999980000</SimpleData>
+		<SimpleData name="n_utm">1837123.210000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">สถานบริการน้ำมัน.</SimpleData>
+		<SimpleData name="district_n">ตำบลวัดตายม</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางกระทุ่ม</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.44879500375804,16.611378009423376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">41</SimpleData>
+		<SimpleData name="lat">16.825976000000001</SimpleData>
+		<SimpleData name="lon">100.417255000000000</SimpleData>
+		<SimpleData name="e_utm">651008.650000000020000</SimpleData>
+		<SimpleData name="n_utm">1860844.500000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลวังทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวังทอง</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.41725500941408,16.825976014514055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">42</SimpleData>
+		<SimpleData name="lat">16.828662000000001</SimpleData>
+		<SimpleData name="lon">100.411523000000000</SimpleData>
+		<SimpleData name="e_utm">650395.680000000050000</SimpleData>
+		<SimpleData name="n_utm">1861137.340000000100000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลวังทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวังทอง</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.41152299936374,16.828661983325048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">43</SimpleData>
+		<SimpleData name="lat">16.830577999999999</SimpleData>
+		<SimpleData name="lon">100.362384000000010</SimpleData>
+		<SimpleData name="e_utm">645157.689999999940000</SimpleData>
+		<SimpleData name="n_utm">1861312.639999999900000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลสมอแข</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.36238399219373,16.830577997309085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">44</SimpleData>
+		<SimpleData name="lat">16.847189000000000</SimpleData>
+		<SimpleData name="lon">100.461856000000000</SimpleData>
+		<SimpleData name="e_utm">655744.390000000010000</SimpleData>
+		<SimpleData name="n_utm">1863226.360000000100000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ไชยนาม LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลชัยนาม</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวังทอง</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.46185599562035,16.847188957341324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">45</SimpleData>
+		<SimpleData name="lat">16.843533999999998</SimpleData>
+		<SimpleData name="lon">100.539869000000000</SimpleData>
+		<SimpleData name="e_utm">664060.589999999970000</SimpleData>
+		<SimpleData name="n_utm">1862885.040000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลวังนกแอ่น</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวังทอง</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.53986902822797,16.843533998582259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">46</SimpleData>
+		<SimpleData name="lat">16.769603000000000</SimpleData>
+		<SimpleData name="lon">101.038222000000000</SimpleData>
+		<SimpleData name="e_utm">717256.739999999990000</SimpleData>
+		<SimpleData name="n_utm">1855182.939999999900000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลแคมป์สน</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเขาค้อ</SimpleData>
+		<SimpleData name="province">เพชรบูรณ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.03822195874767,16.769602992452214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">47</SimpleData>
+		<SimpleData name="lat">16.755969000000000</SimpleData>
+		<SimpleData name="lon">101.199820000000000</SimpleData>
+		<SimpleData name="e_utm">734505.250000000000000</SimpleData>
+		<SimpleData name="n_utm">1853857.740000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">Susco</SimpleData>
+		<SimpleData name="district_n">ตำบลน้ำชุน</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอหล่มสัก</SimpleData>
+		<SimpleData name="province">เพชรบูรณ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.19982000367847,16.7559689762852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">48</SimpleData>
+		<SimpleData name="lat">16.757480999999999</SimpleData>
+		<SimpleData name="lon">101.197418000000000</SimpleData>
+		<SimpleData name="e_utm">734247.229999999980000</SimpleData>
+		<SimpleData name="n_utm">1854022.270000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลน้ำชุน</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอหล่มสัก</SimpleData>
+		<SimpleData name="province">เพชรบูรณ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.19741795724224,16.757480985695935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">49</SimpleData>
+		<SimpleData name="lat">16.757802999999999</SimpleData>
+		<SimpleData name="lon">101.196926000000000</SimpleData>
+		<SimpleData name="e_utm">734194.370000000000000</SimpleData>
+		<SimpleData name="n_utm">1854057.330000000100000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ปตท. LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลน้ำชุน</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอหล่มสัก</SimpleData>
+		<SimpleData name="province">เพชรบูรณ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.1969259905601,16.75780296747859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">50</SimpleData>
+		<SimpleData name="lat">16.758818000000002</SimpleData>
+		<SimpleData name="lon">101.194794000000000</SimpleData>
+		<SimpleData name="e_utm">733965.760000000010000</SimpleData>
+		<SimpleData name="n_utm">1854167.169999999900000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="district_n">ตำบลน้ำชุน</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอหล่มสัก</SimpleData>
+		<SimpleData name="province">เพชรบูรณ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.19479397327787,16.758817992789336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">51</SimpleData>
+		<SimpleData name="lat">16.768533000000001</SimpleData>
+		<SimpleData name="lon">101.040193000000000</SimpleData>
+		<SimpleData name="e_utm">717468.130000000000000</SimpleData>
+		<SimpleData name="n_utm">1855066.669999999900000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลแคมป์สน</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเขาค้อ</SimpleData>
+		<SimpleData name="province">เพชรบูรณ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.04019302288216,16.768532991688723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">52</SimpleData>
+		<SimpleData name="lat">16.777127000000000</SimpleData>
+		<SimpleData name="lon">101.014179000000000</SimpleData>
+		<SimpleData name="e_utm">714684.630000000000000</SimpleData>
+		<SimpleData name="n_utm">1855989.530000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลแคมป์สน</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเขาค้อ</SimpleData>
+		<SimpleData name="province">เพชรบูรณ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.01417903438946,16.777127021315668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">53</SimpleData>
+		<SimpleData name="lat">16.883300999999999</SimpleData>
+		<SimpleData name="lon">100.659689000000000</SimpleData>
+		<SimpleData name="e_utm">676837.000000000000000</SimpleData>
+		<SimpleData name="n_utm">1867335.899999999900000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลแก่งโสภา</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวังทอง</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.66010400020845,16.882817043018658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">54</SimpleData>
+		<SimpleData name="lat">16.861868000000001</SimpleData>
+		<SimpleData name="lon">100.502234000000000</SimpleData>
+		<SimpleData name="e_utm">660034.680000000050000</SimpleData>
+		<SimpleData name="n_utm">1864882.939999999900000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ปตท. LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลวังนกแอ่น</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวังทอง</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.50223401761461,16.861868034997549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">55</SimpleData>
+		<SimpleData name="lat">16.854461000000001</SimpleData>
+		<SimpleData name="lon">100.478607999999990</SimpleData>
+		<SimpleData name="e_utm">657523.439999999940000</SimpleData>
+		<SimpleData name="n_utm">1864044.320000000100000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลชัยนาม</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวังทอง</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.47860802331752,16.854460993785718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">56</SimpleData>
+		<SimpleData name="lat">17.075054000000002</SimpleData>
+		<SimpleData name="lon">100.813981000000000</SimpleData>
+		<SimpleData name="e_utm">693035.859999999990000</SimpleData>
+		<SimpleData name="n_utm">1888755.370000000100000</SimpleData>
+		<SimpleData name="id_road">2013</SimpleData>
+		<SimpleData name="petroleum_">นครไทยปิโตรเลียม</SimpleData>
+		<SimpleData name="district_n">ตำบลหนองกะท้าว</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอนครไทย</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.8139810141233,17.07505398422677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">57</SimpleData>
+		<SimpleData name="lat">17.108865000000002</SimpleData>
+		<SimpleData name="lon">100.850995999999990</SimpleData>
+		<SimpleData name="e_utm">696940.420000000040000</SimpleData>
+		<SimpleData name="n_utm">1892534.389999999900000</SimpleData>
+		<SimpleData name="id_road">2013</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลเนินเพิ่ม</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอนครไทย</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.8509960047196,17.108865023462563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">58</SimpleData>
+		<SimpleData name="lat">17.272949000000001</SimpleData>
+		<SimpleData name="lon">101.145079999999990</SimpleData>
+		<SimpleData name="e_utm">728040.339999999970000</SimpleData>
+		<SimpleData name="n_utm">1911018.350000000100000</SimpleData>
+		<SimpleData name="id_road">2013</SimpleData>
+		<SimpleData name="petroleum_">Caltex</SimpleData>
+		<SimpleData name="district_n">ตำบลด่านซ้าย</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอด่านซ้าย</SimpleData>
+		<SimpleData name="province">เลย</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.14507996508885,17.272949037640124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">59</SimpleData>
+		<SimpleData name="lat">17.272614000000001</SimpleData>
+		<SimpleData name="lon">101.145883000000000</SimpleData>
+		<SimpleData name="e_utm">728126.160000000030000</SimpleData>
+		<SimpleData name="n_utm">1910982.210000000000000</SimpleData>
+		<SimpleData name="id_road">2013</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลด่านซ้าย</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอด่านซ้าย</SimpleData>
+		<SimpleData name="province">เลย</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.14588304478025,17.272613964256081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">60</SimpleData>
+		<SimpleData name="lat">17.115040000000000</SimpleData>
+		<SimpleData name="lon">100.863364000000000</SimpleData>
+		<SimpleData name="e_utm">698250.180000000050000</SimpleData>
+		<SimpleData name="n_utm">1893230.360000000100000</SimpleData>
+		<SimpleData name="id_road">2013</SimpleData>
+		<SimpleData name="petroleum_">LPG หจก. ธนพษ์ ออโต้แก๊ส</SimpleData>
+		<SimpleData name="district_n">ตำบลเนินเพิ่ม</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอนครไทย</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.86336399490425,17.115039986381259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">61</SimpleData>
+		<SimpleData name="lat">17.099675000000001</SimpleData>
+		<SimpleData name="lon">100.835731000000000</SimpleData>
+		<SimpleData name="e_utm">695325.390000000010000</SimpleData>
+		<SimpleData name="n_utm">1891501.919999999900000</SimpleData>
+		<SimpleData name="id_road">2013</SimpleData>
+		<SimpleData name="petroleum_">Susco</SimpleData>
+		<SimpleData name="district_n">ตำบลนครไทย</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอนครไทย</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.83573097957192,17.099675030935376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">62</SimpleData>
+		<SimpleData name="lat">16.851527000000001</SimpleData>
+		<SimpleData name="lon">100.347160000000000</SimpleData>
+		<SimpleData name="e_utm">643519.579999999960000</SimpleData>
+		<SimpleData name="n_utm">1863619.510000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">ปตท. LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลสมอแข</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.34716002712544,16.851526954855995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">63</SimpleData>
+		<SimpleData name="lat">16.857182999999999</SimpleData>
+		<SimpleData name="lon">100.350455999999990</SimpleData>
+		<SimpleData name="e_utm">643866.489999999990000</SimpleData>
+		<SimpleData name="n_utm">1864247.740000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลสมอแข</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35045597242677,16.857182966467963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">64</SimpleData>
+		<SimpleData name="lat">16.859451000000000</SimpleData>
+		<SimpleData name="lon">100.351669000000000</SimpleData>
+		<SimpleData name="e_utm">643994.020000000020000</SimpleData>
+		<SimpleData name="n_utm">1864499.580000000100000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Shell</SimpleData>
+		<SimpleData name="district_n">ตำบลดอนทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35166901113526,16.859450998612232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">65</SimpleData>
+		<SimpleData name="lat">16.878401000000000</SimpleData>
+		<SimpleData name="lon">100.357596000000000</SimpleData>
+		<SimpleData name="e_utm">644611.099999999980000</SimpleData>
+		<SimpleData name="n_utm">1866600.720000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="district_n">ตำบลดอนทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35759596108245,16.878400994303625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">66</SimpleData>
+		<SimpleData name="lat">16.907768000000001</SimpleData>
+		<SimpleData name="lon">100.356376999999990</SimpleData>
+		<SimpleData name="e_utm">644458.880000000000000</SimpleData>
+		<SimpleData name="n_utm">1869849.280000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลบ้านป่า</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35637701585193,16.907768005292734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">67</SimpleData>
+		<SimpleData name="lat">16.947036000000001</SimpleData>
+		<SimpleData name="lon">100.344652000000000</SimpleData>
+		<SimpleData name="e_utm">643180.239999999990000</SimpleData>
+		<SimpleData name="n_utm">1874185.710000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">LPG ศรีวรรณ แก๊ส</SimpleData>
+		<SimpleData name="district_n">ตำบลวัดโบสถ์</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวัดโบสถ์</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.3446520287665,16.947036021329204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">68</SimpleData>
+		<SimpleData name="lat">17.121369999999999</SimpleData>
+		<SimpleData name="lon">100.298133000000010</SimpleData>
+		<SimpleData name="e_utm">638098.060000000060000</SimpleData>
+		<SimpleData name="n_utm">1893442.290000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลทับยายเชียง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอพรหมพิราม</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.29813297326966,17.121370016250502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">69</SimpleData>
+		<SimpleData name="lat">17.475739999999998</SimpleData>
+		<SimpleData name="lon">100.235318000000010</SimpleData>
+		<SimpleData name="e_utm">631163.370000000000000</SimpleData>
+		<SimpleData name="n_utm">1932609.669999999900000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลน้ำอ่าง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอตรอน</SimpleData>
+		<SimpleData name="province">อุตรดิตถ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.23531799945482,17.47574000697152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">70</SimpleData>
+		<SimpleData name="lat">17.483975000000001</SimpleData>
+		<SimpleData name="lon">100.234174000000000</SimpleData>
+		<SimpleData name="e_utm">631035.989999999990000</SimpleData>
+		<SimpleData name="n_utm">1933520.100000000100000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลน้ำอ่าง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอตรอน</SimpleData>
+		<SimpleData name="province">อุตรดิตถ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.23417399497379,17.483975022467227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">71</SimpleData>
+		<SimpleData name="lat">17.545038999999999</SimpleData>
+		<SimpleData name="lon">100.188832000000000</SimpleData>
+		<SimpleData name="e_utm">626179.109999999990000</SimpleData>
+		<SimpleData name="n_utm">1940246.260000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">ปตท. LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลหาดกรวด</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองอุตรดิตถ์</SimpleData>
+		<SimpleData name="province">อุตรดิตถ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.18883195836725,17.545039041677772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">72</SimpleData>
+		<SimpleData name="lat">17.596557000000001</SimpleData>
+		<SimpleData name="lon">100.127376000000000</SimpleData>
+		<SimpleData name="e_utm">619621.780000000030000</SimpleData>
+		<SimpleData name="n_utm">1945906.909999999900000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลป่าเซ่า</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองอุตรดิตถ์</SimpleData>
+		<SimpleData name="province">อุตรดิตถ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.1273760097385,17.596556989019764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">73</SimpleData>
+		<SimpleData name="lat">17.584923000000000</SimpleData>
+		<SimpleData name="lon">100.139672000000000</SimpleData>
+		<SimpleData name="e_utm">620934.339999999970000</SimpleData>
+		<SimpleData name="n_utm">1944627.419999999900000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลป่าเซ่า</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองอุตรดิตถ์</SimpleData>
+		<SimpleData name="province">อุตรดิตถ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.13967196967931,17.584923001373721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">74</SimpleData>
+		<SimpleData name="lat">17.492114000000001</SimpleData>
+		<SimpleData name="lon">100.233911000000010</SimpleData>
+		<SimpleData name="e_utm">631002.229999999980000</SimpleData>
+		<SimpleData name="n_utm">1934420.510000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลน้ำอ่าง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอตรอน</SimpleData>
+		<SimpleData name="province">อุตรดิตถ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.23391096012335,17.492114004993084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">75</SimpleData>
+		<SimpleData name="lat">17.475687000000001</SimpleData>
+		<SimpleData name="lon">100.236170000000000</SimpleData>
+		<SimpleData name="e_utm">631253.880000000000000</SimpleData>
+		<SimpleData name="n_utm">1932604.389999999900000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="district_n">ตำบลน้ำอ่าง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอตรอน</SimpleData>
+		<SimpleData name="province">อุตรดิตถ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.23616997031763,17.475686993067015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">76</SimpleData>
+		<SimpleData name="lat">17.117239000000001</SimpleData>
+		<SimpleData name="lon">100.301204000000000</SimpleData>
+		<SimpleData name="e_utm">638427.870000000000000</SimpleData>
+		<SimpleData name="n_utm">1892987.379999999900000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="district_n">ตำบลทับยายเชียง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอพรหมพิราม</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.30120404634764,17.11723904219954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">77</SimpleData>
+		<SimpleData name="lat">17.096575000000001</SimpleData>
+		<SimpleData name="lon">100.310395000000000</SimpleData>
+		<SimpleData name="e_utm">639421.170000000040000</SimpleData>
+		<SimpleData name="n_utm">1890707.460000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Caltex และ LPG ลิ้ม เฮงฯ</SimpleData>
+		<SimpleData name="district_n">ตำบลทับยายเชียง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอพรหมพิราม</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.31039499010916,17.096575003805558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">78</SimpleData>
+		<SimpleData name="lat">16.994035000000000</SimpleData>
+		<SimpleData name="lon">100.326950999999990</SimpleData>
+		<SimpleData name="e_utm">641259.969999999970000</SimpleData>
+		<SimpleData name="n_utm">1879373.310000000100000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Shell</SimpleData>
+		<SimpleData name="district_n">ตำบลวัดโบสถ์</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวัดโบสถ์</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.32695101600686,16.994035016572095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">79</SimpleData>
+		<SimpleData name="lat">16.882764999999999</SimpleData>
+		<SimpleData name="lon">100.358515000000000</SimpleData>
+		<SimpleData name="e_utm">644705.689999999940000</SimpleData>
+		<SimpleData name="n_utm">1867084.270000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Susco</SimpleData>
+		<SimpleData name="district_n">ตำบลดอนทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.3585150364483,16.882764999868758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">80</SimpleData>
+		<SimpleData name="lat">16.859294999999999</SimpleData>
+		<SimpleData name="lon">100.352700000000000</SimpleData>
+		<SimpleData name="e_utm">644103.989999999990000</SimpleData>
+		<SimpleData name="n_utm">1864483.070000000100000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="district_n">ตำบลสมอแข</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35270002725524,16.859294991877647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#petroleum">
+		<SimpleData name="id_point">81</SimpleData>
+		<SimpleData name="lat">16.853846000000001</SimpleData>
+		<SimpleData name="lon">100.349557000000000</SimpleData>
+		<SimpleData name="e_utm">643773.229999999980000</SimpleData>
+		<SimpleData name="n_utm">1863877.850000000100000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="district_n">ตำบลสมอแข</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.34955701609729,16.853845973048237</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

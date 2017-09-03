@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e20" id="e20">
+	<SimpleField name="id_point" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="e_utm" type="float"></SimpleField>
+	<SimpleField name="n_utm" type="float"></SimpleField>
+	<SimpleField name="petroleum_" type="string"></SimpleField>
+	<SimpleField name="type_petro" type="string"></SimpleField>
+	<SimpleField name="price" type="float"></SimpleField>
+	<SimpleField name="bucket_num" type="int"></SimpleField>
+</Schema>
+<Folder><name>e20</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">2</SimpleData>
+		<SimpleData name="lat">16.765628000000000</SimpleData>
+		<SimpleData name="lon">100.136959000000000</SimpleData>
+		<SimpleData name="e_utm">621177.689999999940000</SimpleData>
+		<SimpleData name="n_utm">1853974.780000000000000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.13695904331959,16.765628007917378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">12</SimpleData>
+		<SimpleData name="lat">16.759936000000000</SimpleData>
+		<SimpleData name="lon">100.221248000000000</SimpleData>
+		<SimpleData name="e_utm">630166.229999999980000</SimpleData>
+		<SimpleData name="n_utm">1853398.340000000100000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.22124804014062,16.759936009477411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">15</SimpleData>
+		<SimpleData name="lat">16.870262000000000</SimpleData>
+		<SimpleData name="lon">100.209843000000010</SimpleData>
+		<SimpleData name="e_utm">628875.900000000020000</SimpleData>
+		<SimpleData name="n_utm">1865597.770000000000000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.2098430025127,16.870261966228345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">21</SimpleData>
+		<SimpleData name="lat">16.953550000000000</SimpleData>
+		<SimpleData name="lon">100.122913999999990</SimpleData>
+		<SimpleData name="e_utm">619562.400000000020000</SimpleData>
+		<SimpleData name="n_utm">1874758.189999999900000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.12291399009001,16.953550005118522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">30</SimpleData>
+		<SimpleData name="lat">16.827584000000002</SimpleData>
+		<SimpleData name="lon">100.414711999999990</SimpleData>
+		<SimpleData name="e_utm">650736.000000000000000</SimpleData>
+		<SimpleData name="n_utm">1861020.000000000000000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.41470845887589,16.827579625639036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">31</SimpleData>
+		<SimpleData name="lat">16.826324000000000</SimpleData>
+		<SimpleData name="lon">100.418277000000000</SimpleData>
+		<SimpleData name="e_utm">651117.290000000040000</SimpleData>
+		<SimpleData name="n_utm">1860883.790000000000000</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.41827703912398,16.826324041372917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">36</SimpleData>
+		<SimpleData name="lat">16.486291999999999</SimpleData>
+		<SimpleData name="lon">100.481853000000000</SimpleData>
+		<SimpleData name="e_utm">658171.530000000030000</SimpleData>
+		<SimpleData name="n_utm">1823308.060000000100000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.48185301845766,16.486291957898402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">41</SimpleData>
+		<SimpleData name="lat">16.825976000000001</SimpleData>
+		<SimpleData name="lon">100.417255000000000</SimpleData>
+		<SimpleData name="e_utm">651008.650000000020000</SimpleData>
+		<SimpleData name="n_utm">1860844.500000000000000</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.879999999999999</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.41725500941408,16.825976014514055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">43</SimpleData>
+		<SimpleData name="lat">16.830577999999999</SimpleData>
+		<SimpleData name="lon">100.362384000000010</SimpleData>
+		<SimpleData name="e_utm">645157.689999999940000</SimpleData>
+		<SimpleData name="n_utm">1861312.639999999900000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.36238399219373,16.830577997309085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">45</SimpleData>
+		<SimpleData name="lat">16.843533999999998</SimpleData>
+		<SimpleData name="lon">100.539869000000000</SimpleData>
+		<SimpleData name="e_utm">664060.589999999970000</SimpleData>
+		<SimpleData name="n_utm">1862885.040000000000000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.53986902822797,16.843533998582259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">48</SimpleData>
+		<SimpleData name="lat">16.757480999999999</SimpleData>
+		<SimpleData name="lon">101.197418000000000</SimpleData>
+		<SimpleData name="e_utm">734247.229999999980000</SimpleData>
+		<SimpleData name="n_utm">1854022.270000000000000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.19741795724224,16.757480985695935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">50</SimpleData>
+		<SimpleData name="lat">16.758818000000002</SimpleData>
+		<SimpleData name="lon">101.194794000000000</SimpleData>
+		<SimpleData name="e_utm">733965.760000000010000</SimpleData>
+		<SimpleData name="n_utm">1854167.169999999900000</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.19479397327787,16.758817992789336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">51</SimpleData>
+		<SimpleData name="lat">16.768533000000001</SimpleData>
+		<SimpleData name="lon">101.040193000000000</SimpleData>
+		<SimpleData name="e_utm">717468.130000000000000</SimpleData>
+		<SimpleData name="n_utm">1855066.669999999900000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.04019302288216,16.768532991688723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">53</SimpleData>
+		<SimpleData name="lat">16.883300999999999</SimpleData>
+		<SimpleData name="lon">100.659689000000000</SimpleData>
+		<SimpleData name="e_utm">676837.000000000000000</SimpleData>
+		<SimpleData name="n_utm">1867335.899999999900000</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.66010400020845,16.882817043018658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">55</SimpleData>
+		<SimpleData name="lat">16.854461000000001</SimpleData>
+		<SimpleData name="lon">100.478607999999990</SimpleData>
+		<SimpleData name="e_utm">657523.439999999940000</SimpleData>
+		<SimpleData name="n_utm">1864044.320000000100000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.47860802331752,16.854460993785718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">57</SimpleData>
+		<SimpleData name="lat">17.108865000000002</SimpleData>
+		<SimpleData name="lon">100.850995999999990</SimpleData>
+		<SimpleData name="e_utm">696940.420000000040000</SimpleData>
+		<SimpleData name="n_utm">1892534.389999999900000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.8509960047196,17.108865023462563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">63</SimpleData>
+		<SimpleData name="lat">16.857182999999999</SimpleData>
+		<SimpleData name="lon">100.350455999999990</SimpleData>
+		<SimpleData name="e_utm">643866.489999999990000</SimpleData>
+		<SimpleData name="n_utm">1864247.740000000000000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35045597242677,16.857182966467963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">68</SimpleData>
+		<SimpleData name="lat">17.121369999999999</SimpleData>
+		<SimpleData name="lon">100.298133000000010</SimpleData>
+		<SimpleData name="e_utm">638098.060000000060000</SimpleData>
+		<SimpleData name="n_utm">1893442.290000000000000</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.29813297326966,17.121370016250502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">72</SimpleData>
+		<SimpleData name="lat">17.596557000000001</SimpleData>
+		<SimpleData name="lon">100.127376000000000</SimpleData>
+		<SimpleData name="e_utm">619621.780000000030000</SimpleData>
+		<SimpleData name="n_utm">1945906.909999999900000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.1273760097385,17.596556989019764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">75</SimpleData>
+		<SimpleData name="lat">17.475687000000001</SimpleData>
+		<SimpleData name="lon">100.236170000000000</SimpleData>
+		<SimpleData name="e_utm">631253.880000000000000</SimpleData>
+		<SimpleData name="n_utm">1932604.389999999900000</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.23616997031763,17.475686993067015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">76</SimpleData>
+		<SimpleData name="lat">17.117239000000001</SimpleData>
+		<SimpleData name="lon">100.301204000000000</SimpleData>
+		<SimpleData name="e_utm">638427.870000000000000</SimpleData>
+		<SimpleData name="n_utm">1892987.379999999900000</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.30120404634764,17.11723904219954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">78</SimpleData>
+		<SimpleData name="lat">16.994035000000000</SimpleData>
+		<SimpleData name="lon">100.326950999999990</SimpleData>
+		<SimpleData name="e_utm">641259.969999999970000</SimpleData>
+		<SimpleData name="n_utm">1879373.310000000100000</SimpleData>
+		<SimpleData name="petroleum_">Shell</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.879999999999999</SimpleData>
+		<SimpleData name="bucket_num">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.32695101600686,16.994035016572095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#e20">
+		<SimpleData name="id_point">81</SimpleData>
+		<SimpleData name="lat">16.853846000000001</SimpleData>
+		<SimpleData name="lon">100.349557000000000</SimpleData>
+		<SimpleData name="e_utm">643773.229999999980000</SimpleData>
+		<SimpleData name="n_utm">1863877.850000000100000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">E20</SimpleData>
+		<SimpleData name="price">23.829999999999998</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.34955701609729,16.853845973048237</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

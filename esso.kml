@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="esso" id="esso">
+	<SimpleField name="id_point" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="e_utm" type="float"></SimpleField>
+	<SimpleField name="n_utm" type="float"></SimpleField>
+	<SimpleField name="id_road" type="float"></SimpleField>
+	<SimpleField name="petroleum_" type="string"></SimpleField>
+	<SimpleField name="district_n" type="string"></SimpleField>
+	<SimpleField name="amphoe_nam" type="string"></SimpleField>
+	<SimpleField name="province" type="string"></SimpleField>
+</Schema>
+<Folder><name>esso</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#esso">
+		<SimpleData name="id_point">9</SimpleData>
+		<SimpleData name="lat">16.753900000000002</SimpleData>
+		<SimpleData name="lon">100.115388999999990</SimpleData>
+		<SimpleData name="e_utm">618885.780000000030000</SimpleData>
+		<SimpleData name="n_utm">1852664.159999999900000</SimpleData>
+		<SimpleData name="id_road">1065</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="district_n">ตำบลบางระกำ</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอบางระกำ</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.1153889777421,16.753900039175594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#esso">
+		<SimpleData name="id_point">31</SimpleData>
+		<SimpleData name="lat">16.826324000000000</SimpleData>
+		<SimpleData name="lon">100.418277000000000</SimpleData>
+		<SimpleData name="e_utm">651117.290000000040000</SimpleData>
+		<SimpleData name="n_utm">1860883.790000000000000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="district_n">ตำบลวังทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอวังทอง</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.41827703912398,16.826324041372917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#esso">
+		<SimpleData name="id_point">50</SimpleData>
+		<SimpleData name="lat">16.758818000000002</SimpleData>
+		<SimpleData name="lon">101.194794000000000</SimpleData>
+		<SimpleData name="e_utm">733965.760000000010000</SimpleData>
+		<SimpleData name="n_utm">1854167.169999999900000</SimpleData>
+		<SimpleData name="id_road">12</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="district_n">ตำบลน้ำชุน</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอหล่มสัก</SimpleData>
+		<SimpleData name="province">เพชรบูรณ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.19479397327787,16.758817992789336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#esso">
+		<SimpleData name="id_point">65</SimpleData>
+		<SimpleData name="lat">16.878401000000000</SimpleData>
+		<SimpleData name="lon">100.357596000000000</SimpleData>
+		<SimpleData name="e_utm">644611.099999999980000</SimpleData>
+		<SimpleData name="n_utm">1866600.720000000000000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="district_n">ตำบลดอนทอง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอเมืองพิษณุโลก</SimpleData>
+		<SimpleData name="province">พิษณุโลก</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35759596108245,16.878400994303625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#esso">
+		<SimpleData name="id_point">75</SimpleData>
+		<SimpleData name="lat">17.475687000000001</SimpleData>
+		<SimpleData name="lon">100.236170000000000</SimpleData>
+		<SimpleData name="e_utm">631253.880000000000000</SimpleData>
+		<SimpleData name="n_utm">1932604.389999999900000</SimpleData>
+		<SimpleData name="id_road">11</SimpleData>
+		<SimpleData name="petroleum_">Esso</SimpleData>
+		<SimpleData name="district_n">ตำบลน้ำอ่าง</SimpleData>
+		<SimpleData name="amphoe_nam">อำเภอตรอน</SimpleData>
+		<SimpleData name="province">อุตรดิตถ์</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.23616997031763,17.475686993067015</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

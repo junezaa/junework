@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ngv" id="ngv">
+	<SimpleField name="id_point" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="e_utm" type="float"></SimpleField>
+	<SimpleField name="n_utm" type="float"></SimpleField>
+	<SimpleField name="petroleum_" type="string"></SimpleField>
+	<SimpleField name="type_petro" type="string"></SimpleField>
+	<SimpleField name="price" type="float"></SimpleField>
+	<SimpleField name="bucket_num" type="int"></SimpleField>
+</Schema>
+<Folder><name>ngv</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ngv">
+		<SimpleData name="id_point">43</SimpleData>
+		<SimpleData name="lat">16.830577999999999</SimpleData>
+		<SimpleData name="lon">100.362384000000010</SimpleData>
+		<SimpleData name="e_utm">645157.689999999940000</SimpleData>
+		<SimpleData name="n_utm">1861312.639999999900000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">NGV</SimpleData>
+		<SimpleData name="price">13.420000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.36238399219373,16.830577997309085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ngv">
+		<SimpleData name="id_point">63</SimpleData>
+		<SimpleData name="lat">16.857182999999999</SimpleData>
+		<SimpleData name="lon">100.350455999999990</SimpleData>
+		<SimpleData name="e_utm">643866.489999999990000</SimpleData>
+		<SimpleData name="n_utm">1864247.740000000000000</SimpleData>
+		<SimpleData name="petroleum_">ปตท.</SimpleData>
+		<SimpleData name="type_petro">NGV</SimpleData>
+		<SimpleData name="price">13.420000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35045597242677,16.857182966467963</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

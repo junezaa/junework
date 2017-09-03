@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="lpg" id="lpg">
+	<SimpleField name="id_point" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="e_utm" type="float"></SimpleField>
+	<SimpleField name="n_utm" type="float"></SimpleField>
+	<SimpleField name="petroleum_" type="string"></SimpleField>
+	<SimpleField name="type_petro" type="string"></SimpleField>
+	<SimpleField name="price" type="float"></SimpleField>
+	<SimpleField name="bucket_num" type="int"></SimpleField>
+</Schema>
+<Folder><name>lpg</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">1</SimpleData>
+		<SimpleData name="lat">16.806258000000000</SimpleData>
+		<SimpleData name="lon">100.331953000000000</SimpleData>
+		<SimpleData name="e_utm">641932.969999999970000</SimpleData>
+		<SimpleData name="n_utm">1858599.600000000100000</SimpleData>
+		<SimpleData name="petroleum_">อินโดจีนแก๊ส</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">0.000000000000000</SimpleData>
+		<SimpleData name="bucket_num">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.33195297462882,16.806258018997635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">4</SimpleData>
+		<SimpleData name="lat">16.610471000000000</SimpleData>
+		<SimpleData name="lon">99.876813999999996</SimpleData>
+		<SimpleData name="e_utm">593524.650000000020000</SimpleData>
+		<SimpleData name="n_utm">1836668.790000000000000</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.350000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>99.876814014173632,16.610470981220328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">10</SimpleData>
+		<SimpleData name="lat">16.765235000000001</SimpleData>
+		<SimpleData name="lon">100.131551000000000</SimpleData>
+		<SimpleData name="e_utm">620601.479999999980000</SimpleData>
+		<SimpleData name="n_utm">1853928.010000000000000</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">0.000000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.13155097578976,16.765235044157535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">11</SimpleData>
+		<SimpleData name="lat">16.759868000000001</SimpleData>
+		<SimpleData name="lon">100.219864000000000</SimpleData>
+		<SimpleData name="e_utm">630018.739999999990000</SimpleData>
+		<SimpleData name="n_utm">1853389.909999999900000</SimpleData>
+		<SimpleData name="petroleum_">วิเศษแก๊ส LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">0.000000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.21986399891472,16.759868011234072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">17</SimpleData>
+		<SimpleData name="lat">16.886873000000001</SimpleData>
+		<SimpleData name="lon">100.200749000000000</SimpleData>
+		<SimpleData name="e_utm">627895.880000000000000</SimpleData>
+		<SimpleData name="n_utm">1867429.770000000000000</SimpleData>
+		<SimpleData name="petroleum_">ยนตรกิจ LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.690000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.20074902814197,16.886873036776198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">23</SimpleData>
+		<SimpleData name="lat">16.927495000000000</SimpleData>
+		<SimpleData name="lon">100.165178000000000</SimpleData>
+		<SimpleData name="e_utm">624080.060000000060000</SimpleData>
+		<SimpleData name="n_utm">1871901.580000000100000</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.690000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.16517800855571,16.927494985122543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">26</SimpleData>
+		<SimpleData name="lat">16.838398000000002</SimpleData>
+		<SimpleData name="lon">100.339685000000000</SimpleData>
+		<SimpleData name="e_utm">642732.949999999950000</SimpleData>
+		<SimpleData name="n_utm">1862161.389999999900000</SimpleData>
+		<SimpleData name="petroleum_">LPG กัญญพัชรแก๊ส</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">0.000000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.33968498499291,16.838397962979968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">28</SimpleData>
+		<SimpleData name="lat">16.819496000000001</SimpleData>
+		<SimpleData name="lon">100.341554000000000</SimpleData>
+		<SimpleData name="e_utm">642946.000000000000000</SimpleData>
+		<SimpleData name="n_utm">1860071.000000000000000</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.800000000000001</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.34155126332175,16.819493621314781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">33</SimpleData>
+		<SimpleData name="lat">16.611615000000000</SimpleData>
+		<SimpleData name="lon">100.449586999999990</SimpleData>
+		<SimpleData name="e_utm">654626.910000000030000</SimpleData>
+		<SimpleData name="n_utm">1837150.040000000000000</SimpleData>
+		<SimpleData name="petroleum_">PT</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.800000000000001</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.44958702302851,16.611614961231219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">34</SimpleData>
+		<SimpleData name="lat">16.519439999999999</SimpleData>
+		<SimpleData name="lon">100.466712000000000</SimpleData>
+		<SimpleData name="e_utm">656528.420000000040000</SimpleData>
+		<SimpleData name="n_utm">1826964.090000000100000</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.949999999999999</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.46671204261565,16.519439964673943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">42</SimpleData>
+		<SimpleData name="lat">16.828662000000001</SimpleData>
+		<SimpleData name="lon">100.411523000000000</SimpleData>
+		<SimpleData name="e_utm">650395.680000000050000</SimpleData>
+		<SimpleData name="n_utm">1861137.340000000100000</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.199999999999999</SimpleData>
+		<SimpleData name="bucket_num">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.41152299936374,16.828661983325048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">44</SimpleData>
+		<SimpleData name="lat">16.847189000000000</SimpleData>
+		<SimpleData name="lon">100.461856000000000</SimpleData>
+		<SimpleData name="e_utm">655744.390000000010000</SimpleData>
+		<SimpleData name="n_utm">1863226.360000000100000</SimpleData>
+		<SimpleData name="petroleum_">ไชยนาม LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.199999999999999</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.46185599562035,16.847188957341324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">49</SimpleData>
+		<SimpleData name="lat">16.757802999999999</SimpleData>
+		<SimpleData name="lon">101.196926000000000</SimpleData>
+		<SimpleData name="e_utm">734194.370000000000000</SimpleData>
+		<SimpleData name="n_utm">1854057.330000000100000</SimpleData>
+		<SimpleData name="petroleum_">ปตท. LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.500000000000000</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.1969259905601,16.75780296747859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">54</SimpleData>
+		<SimpleData name="lat">16.861868000000001</SimpleData>
+		<SimpleData name="lon">100.502234000000000</SimpleData>
+		<SimpleData name="e_utm">660034.680000000050000</SimpleData>
+		<SimpleData name="n_utm">1864882.939999999900000</SimpleData>
+		<SimpleData name="petroleum_">ปตท. LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.199999999999999</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.50223401761461,16.861868034997549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">60</SimpleData>
+		<SimpleData name="lat">17.115040000000000</SimpleData>
+		<SimpleData name="lon">100.863364000000000</SimpleData>
+		<SimpleData name="e_utm">698250.180000000050000</SimpleData>
+		<SimpleData name="n_utm">1893230.360000000100000</SimpleData>
+		<SimpleData name="petroleum_">LPG หจก. ธนพษ์ ออโต้แก๊ส</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.500000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.86336399490425,17.115039986381259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">62</SimpleData>
+		<SimpleData name="lat">16.851527000000001</SimpleData>
+		<SimpleData name="lon">100.347160000000000</SimpleData>
+		<SimpleData name="e_utm">643519.579999999960000</SimpleData>
+		<SimpleData name="n_utm">1863619.510000000000000</SimpleData>
+		<SimpleData name="petroleum_">ปตท. LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">12.900000000000000</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.34716002712544,16.851526954855995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">67</SimpleData>
+		<SimpleData name="lat">16.947036000000001</SimpleData>
+		<SimpleData name="lon">100.344652000000000</SimpleData>
+		<SimpleData name="e_utm">643180.239999999990000</SimpleData>
+		<SimpleData name="n_utm">1874185.710000000000000</SimpleData>
+		<SimpleData name="petroleum_">LPG ศรีวรรณ แก๊ส</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.150000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.3446520287665,16.947036021329204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">69</SimpleData>
+		<SimpleData name="lat">17.475739999999998</SimpleData>
+		<SimpleData name="lon">100.235318000000010</SimpleData>
+		<SimpleData name="e_utm">631163.370000000000000</SimpleData>
+		<SimpleData name="n_utm">1932609.669999999900000</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">12.490000000000000</SimpleData>
+		<SimpleData name="bucket_num">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.23531799945482,17.47574000697152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">71</SimpleData>
+		<SimpleData name="lat">17.545038999999999</SimpleData>
+		<SimpleData name="lon">100.188832000000000</SimpleData>
+		<SimpleData name="e_utm">626179.109999999990000</SimpleData>
+		<SimpleData name="n_utm">1940246.260000000000000</SimpleData>
+		<SimpleData name="petroleum_">ปตท. LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.199999999999999</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.18883195836725,17.545039041677772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">77</SimpleData>
+		<SimpleData name="lat">17.096575000000001</SimpleData>
+		<SimpleData name="lon">100.310395000000000</SimpleData>
+		<SimpleData name="e_utm">639421.170000000040000</SimpleData>
+		<SimpleData name="n_utm">1890707.460000000000000</SimpleData>
+		<SimpleData name="petroleum_">Caltex และ LPG ลิ้ม เฮงฯ</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">13.100000000000000</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.31039499010916,17.096575003805558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lpg">
+		<SimpleData name="id_point">80</SimpleData>
+		<SimpleData name="lat">16.859294999999999</SimpleData>
+		<SimpleData name="lon">100.352700000000000</SimpleData>
+		<SimpleData name="e_utm">644103.989999999990000</SimpleData>
+		<SimpleData name="n_utm">1864483.070000000100000</SimpleData>
+		<SimpleData name="petroleum_">LPG</SimpleData>
+		<SimpleData name="type_petro">LPG</SimpleData>
+		<SimpleData name="price">12.949999999999999</SimpleData>
+		<SimpleData name="bucket_num">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.35270002725524,16.859294991877647</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
